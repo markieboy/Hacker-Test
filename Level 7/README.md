@@ -18,3 +18,5 @@
 > At the bottom of this image is  `username: phat password:jerkybar3`
 
 ### Enter “phat” as the username. The password is not needed.
+
+### Next level: http://www.hackertest.net/pwd2.php
