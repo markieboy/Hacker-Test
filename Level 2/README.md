@@ -4,8 +4,9 @@ image
 
 #
 ### SOLUTION
- 
-### Right click on the web page to "View Page Source"
+
+### Click on the "OK" button to send a blank password and remove the pop up from the screen.
+### Right click on the web page to "View Page Source".
 
 	</head>
 	<body>
@@ -18,7 +19,7 @@ image
 	}
 	</script>
 
-> The if statement `if (pass=="l3l)` it adds this to the href in the link to the next level 'href="http://www.hackertest.net/"+pass+".htm"'
+> The if statement declares that `if (pass=="l3l)`, then l3l is added to the href link to the next level `href="http://www.hackertest.net/"+pass+".htm"`
 
 ### Enter “l3l” as the password.
-Note: This is a lower case L, not the number 1.
+> Note: This is lower-case L, 3, lower-case L.
