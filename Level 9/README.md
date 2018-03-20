@@ -1,34 +1,31 @@
-# Level 1
+# Level 9
 
-image
+![Alt text](level9.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
+	
+	<HTML>
+	<HEAD>
+	<base href='http://www.hackertest.net/'>
+	</HEAD>
+	<BODY BGCOLOR="ffffff" TEXT="000000" BG="images/phat.gif">
+	<!-- SOURCE CODE IS NOT AVAILABLE AT THIS TIME //-->
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+> On first glance the source code does not appear to say anything interesting.
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> However. notice that you can scroll down the page source.
 
-> Two lines above this `var a` is set to “null”
+> On line 706 a bunch more source code is evident, but still tells you little.
 
-### Enter “null” as the password.
+> Scroll down to line 1054 to see the start of a comment statement `<!-----------`
+
+> Scroll along this statement reveals `Password: Z2F6ZWJydWg= add a page extention to that`.
+
+> This password `Z2F6ZWJydWg=` is base64 encoded.
+
+> Open a base64 decoder such as www.base64decode.org/, and decode the password as `gazebruh`.
+
+### Next level: http://www.hackertest.net/gazebruh.php
