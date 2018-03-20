@@ -1,36 +1,16 @@
-# Level 1
+# Level 4
 
-![Alt text](level1.PNG?raw=true)
+![Alt text](level4.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	<center><p>Congratulations! Next level... <a href="sdrawkcab.htm">Click here</a>.</p></center>
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> The next level can be got to simply by clicking on the link. 
 
-> Two lines above this `var a` is set to “null”
+> However, you may need to turn off JavaScript in your broswer to be able to click on this link.
 
-### Enter “null” as the password.
-
-### Next level: www.hackertest.net/null.htm
+### Next level: www.hackertest.net/sdrawkcab.htm
