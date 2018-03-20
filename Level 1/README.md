@@ -22,7 +22,7 @@
 	}
 	</script>
 
-> Notice the check for “if (document.a.c.value ==a) {….}
+> Notice the check for 'if (document.a.c.value ==a) {...}'
 
 > Two lines above this var a is set to “null”
 
