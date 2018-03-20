@@ -1,6 +1,6 @@
 # Level 2
 
-image
+![Alt text](level2.PNG?raw=true)
 
 #
 ### SOLUTION
