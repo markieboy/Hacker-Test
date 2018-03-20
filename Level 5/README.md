@@ -28,6 +28,8 @@
 ### Enter “SAvE-as hELpS a lOt" as the password.
 
 #
-Alternatively, the URL for the next level is also in the page source.
+There is an alternative solution for this level
+
+> The URL for the next level is also in the page source.
 
 ### Next level: www.hackertest.net/save_as.htm
