@@ -22,8 +22,8 @@
 	}
 	</script>
 
-> Notice the check for 'if (document.a.c.value ==a) {...}'
+> The check statement `if (document.a.c.value ==a)` is checking to see if the entered password is equal to `var a`
 
-> Two lines above this var a is set to “null”
+> Two lines above this `var a` is set to “null”
 
 ### Step 2. Enter “null” as the password.
