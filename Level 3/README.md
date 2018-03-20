@@ -25,7 +25,7 @@
 	}
 	</SCRIPT>
 
-> In the `window.location.href=String.fromCharCode(97,98,114,97,101)+".htm";` statement, part of the next level URL is encoded in ASCII. 
+> In the Javascri statement `window.location.href=String.fromCharCode(97,98,114,97,101)+".htm";`, part of the next level URL is encoded in ASCII. 
 
 > ASCII(97) is `a`, ASCII(98) is `b`, ASCII(114) is `r`, ASCII(97) is `a` and ASCII(101) is `e`.
 
