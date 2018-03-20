@@ -24,7 +24,7 @@
 	alert("Try again...");
 	//-->
 
-> If if statement `if (pass=="hackertestz")` shows the password.
+> The if statement `if (pass=="hackertestz")` shows the password.
 
 ### Enter “hackertestz” as the password.
 
