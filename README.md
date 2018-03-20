@@ -10,5 +10,7 @@ HackerTest.net is an online website to help you improve your JavaScript, PHP, HT
 
 * [Level 1](/Level%201/)
 * [Level 2](/Level%202/)
+* [Level 3](/Level%203/)
+* [Level 4](/Level%204/)
 
 ## Incomplete write-ups
