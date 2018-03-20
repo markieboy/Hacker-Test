@@ -26,6 +26,6 @@
 
 > This password `Z2F6ZWJydWg=` is base64 encoded.
 
-> Open a base64 decoder such as www.base64decode.org/, and decode the password as `gazebruh`.
+> Open a base64 decoder such as www.base64decode.org/ and decode the password as `gazebruh`.
 
 ### Next level: http://www.hackertest.net/gazebruh.php
