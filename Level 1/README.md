@@ -22,7 +22,7 @@
 	}
 	</script>
 
-> The check statement `if (document.a.c.value ==a)` is checking to see if the entered password is equal to `var a`
+> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
 
 > Two lines above this `var a` is set to “null”
 
