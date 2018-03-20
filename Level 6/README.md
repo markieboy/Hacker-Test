@@ -11,7 +11,7 @@
 	<h1>Level 6</h1>
 	<SCRIPT SRC="psswd.js" LANGUAGE="JavaScript" type="text/javascript"></script>
 
-> The Javascript points to a file `psswd.js`.
+> The Javascript points to a file called `psswd.js`.
 
 > Click on this to examine the .js file:
 
