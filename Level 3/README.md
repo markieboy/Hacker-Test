@@ -29,6 +29,4 @@
 
 > ASCII(97) is `a`, ASCII(98) is `b`, ASCII(114) is `r`, ASCII(97) is `a` and ASCII(101) is `e`.
 
-### Enter “abrae” as the password.
-
-### Next level: www.hackertest.net/abrae.htm
+### Enter the URL www.hackertest.net/abrae.htm“abrae” to go to the next level.
