@@ -1,6 +1,6 @@
 # Level 1
  
-### Step 1. View the Page Source:
+### Right click on the web page to "View Page Source"
 
 	</script>
 	</head>
@@ -26,4 +26,4 @@
 
 > Two lines above this `var a` is set to “null”
 
-### Step 2. Enter “null” as the password.
+### Enter “null” as the password.
