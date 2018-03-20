@@ -37,4 +37,4 @@ There is an alternative solution for this level
 
 > ASCII(97) is `a`, ASCII(98) is `b`, ASCII(114) is `r`, ASCII(97) is `a` and ASCII(101) is `e`.
 
-### Enter the URL www.hackertest.net/abrae.htm“abrae” to go to the next level.
+### Enter the URL www.hackertest.net/abrae.htm to go to the next level.
