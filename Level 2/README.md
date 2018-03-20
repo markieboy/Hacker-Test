@@ -23,3 +23,5 @@ image
 
 ### Enter “l3l” as the password.
 > Note: This is lower-case L, 3, lower-case L.
+
+### Next level: www.hackertest.net/l3l.htm
