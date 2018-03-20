@@ -1,4 +1,9 @@
 # Level 1
+
+image
+
+#
+### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
