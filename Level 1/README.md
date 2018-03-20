@@ -1,6 +1,6 @@
 # Level 1
  
->## 1. View the Page Source:
+## 1. View the Page Source:
 
 	</script>
 	</head>
