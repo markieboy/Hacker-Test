@@ -8,6 +8,7 @@
 ### Click on the "OK" button to send a blank password and remove the pop up from the screen.
 ### With the pop up removed you can right click on the web page to "View Page Source".
 
+	<body onload=javascript:pass(); alink="#000000">
 	<SCRIPT LANGUAGE="JavaScript">
 	function pass()
 	{
@@ -24,6 +25,12 @@
 	}
 	}
 	</SCRIPT>
+
+> The password (`pw`) is `window.document.alinkColor`. A few lines higher up the alink colour is set to `alink="#000000"`.
+
+### Enter “#000000” as the password.
+
+## There is an alternative solution for this level
 
 > In the Javascri statement `window.location.href=String.fromCharCode(97,98,114,97,101)+".htm";`, part of the next level URL is encoded in ASCII. 
 
