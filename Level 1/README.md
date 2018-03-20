@@ -32,3 +32,5 @@ image
 > Two lines above this `var a` is set to “null”
 
 ### Enter “null” as the password.
+
+### Next level: www.hackertest.net/null.htm
