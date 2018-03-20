@@ -1,4 +1,4 @@
-# Level 1
+# Level 2
 
 image
 
@@ -7,28 +7,18 @@ image
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
 	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
+	<body>
+	<script language="JavaScript" type="text/javascript">
+	var pass, i;
+	pass=prompt("Please enter password!","");
+	if (pass=="l3l") {
+	window.location.href="http://www.hackertest.net/"+pass+".htm";
+	i=4;
 	}
 	</script>
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> The if statement `if (pass=="l3l)` it adds this to the href in the link to the next level 'href="http://www.hackertest.net/"+pass+".htm"'
 
-> Two lines above this `var a` is set to “null”
-
-### Enter “null” as the password.
+### Enter “l3l” as the password.
+Note: This is a lower case L, not the number 1.
