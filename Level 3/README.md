@@ -30,7 +30,8 @@
 
 ### Enter “#000000” as the password.
 
-## There is an alternative solution for this level
+#
+There is an alternative solution for this level
 
 > In the Javascri statement `window.location.href=String.fromCharCode(97,98,114,97,101)+".htm";`, part of the next level URL is encoded in ASCII. 
 
