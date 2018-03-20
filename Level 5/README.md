@@ -1,36 +1,33 @@
-# Level 1
+# Level 5
 
-![Alt text](level1.PNG?raw=true)
+![Alt text](level5.PNG?raw=true)
 
 #
 ### SOLUTION
  
+### Disable Javascript
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
 	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
+	var pass, i;
+	pass=prompt("Password: ","");
+	if (pass=="SAvE-as hELpS a lOt") {
+	window.location.href="save_as.htm";
+	i=4;
+	}else {alert("Try again");
+	window.location.href="abrae.htm";}
 	</script>
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
 
-> Two lines above this `var a` is set to “null”
+> The if statement `if (pass=="SAvE-as hELpS a lOt")` shows what the password needs to be.
 
-### Enter “null” as the password.
+> But you need to enable Javascript to get the password box back.
 
-### Next level: www.hackertest.net/null.htm
+### Enable Javascript
+
+### Enter “SAvE-as hELpS a lOt" as the password.
+
+#
+Alternatively, the URL for the next level is also in the page source.
+
+### Next level: www.hackertest.net/save_as.htm
