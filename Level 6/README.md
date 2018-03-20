@@ -1,36 +1,36 @@
-# Level 1
+# Level 6
 
-![Alt text](level1.PNG?raw=true)
+![Alt text](level6.PNG?raw=true)
 
 #
 ### SOLUTION
  
-### Right click on the web page to "View Page Source"
+### Click on the "OK" button to send a blank password and remove the pop up from the screen.
+### With the pop up removed you can right click on the web page to "View Page Source".
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	<h1>Level 6</h1>
+	<SCRIPT SRC="psswd.js" LANGUAGE="JavaScript" type="text/javascript"></script>
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> The Javascript points to a file `psswd.js`.
 
-> Two lines above this `var a` is set to “null”
+> Click on this to examine the .js file:
 
-### Enter “null” as the password.
+	<!--
+	var pass;
+	pass=prompt("Password:","");
+	if (pass=="hackertestz") {
+	window.location="included.htm";
+	}else 
+	alert("Try again...");
+	//-->
 
-### Next level: www.hackertest.net/null.htm
+> If if statement `if (pass=="hackertestz")` shows the password.
+
+### Enter “hackertestz” as the password.
+
+#
+There is an alternative solution for this level
+
+> In the Javascri statement the next level url is shown as `window.location="included.htm";`.
+
+### Next level: www.hackertest.net/included.htm
