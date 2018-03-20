@@ -2,7 +2,7 @@
 
 http://www.hackertest.net
 
-HackerTest.net is an online website to help you improve your JavaScript, PHP, HTML, and advance your web security knowledge. It encourages you to look at the source code for web pages in order to understand the underlying JavaScript or PHP functions.
+HackerTest.net is an online website to help you improve your JavaScript, PHP, HTML, and advance your web security knowledge. It encourages you to look at the source code of web pages in order to understand the underlying JavaScript or PHP functions.
 
 
 
@@ -18,6 +18,5 @@ HackerTest.net is an online website to help you improve your JavaScript, PHP, HT
 * [Level 8](/Level%208/)
 * [Level 9](/Level%209/)
 * [Level 10](/Level%2010/)
-
 
 ## Incomplete write-ups
