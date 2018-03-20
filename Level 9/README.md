@@ -16,7 +16,7 @@
 
 > On first glance the source code does not appear to say anything interesting.
 
-> However. notice that you can scroll down the page source.
+> However, notice that you can scroll further down the page source.
 
 > On line 706 a bunch more source code is evident, but still tells you little.
 
