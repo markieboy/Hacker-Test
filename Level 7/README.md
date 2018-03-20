@@ -1,34 +1,20 @@
-# Level 1
+# Level 7
 
-image
+![Alt text](level7.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
 	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	<body bg="images/included.gif">
+	<h1>Hacker Test</h1>
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> The HTML contains a reference to a gif image `<body bg="images/included.gif">`.
 
-> Two lines above this `var a` is set to “null”
+> In a new browser window open the image: http://www.hackertest.net/images/included.gif
 
-### Enter “null” as the password.
+> At the bottom of this image is  `username: phat password:jerkybar3`
+
+### Enter “phat” as the username. The password is not needed.
