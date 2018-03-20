@@ -22,6 +22,6 @@
 > The if statement declares that `if (pass=="l3l)`, then l3l is added to the href link to the next level `href="http://www.hackertest.net/"+pass+".htm"`
 
 ### Enter “l3l” as the password.
-> Note: This is lower-case L, 3, lower-case L.
+> Note: This is lower-case L, 3, lower-case L. Not the number 1.
 
 ### Next level: www.hackertest.net/l3l.htm
