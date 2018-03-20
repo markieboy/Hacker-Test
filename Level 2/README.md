@@ -6,7 +6,7 @@ image
 ### SOLUTION
 
 ### Click on the "OK" button to send a blank password and remove the pop up from the screen.
-### Right click on the web page to "View Page Source".
+### With the pop up removed you can right click on the web page to "View Page Source".
 
 	</head>
 	<body>
