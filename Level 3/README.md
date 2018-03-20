@@ -26,7 +26,7 @@
 	}
 	</SCRIPT>
 
-> The password (`pw`) is `window.document.alinkColor`. A few lines higher up the alink colour is set to `alink="#000000"`.
+> The password `pw` is `window.document.alinkColor`. A few lines higher up the alink colour is set to `alink="#000000"`.
 
 ### Enter “#000000” as the password.
 
