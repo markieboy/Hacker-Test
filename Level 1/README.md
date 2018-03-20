@@ -1,6 +1,6 @@
 # Level 1
  
-> 1. View the Page Source:
+># 1. View the Page Source:
 
 	</script>
 	</head>
@@ -22,8 +22,8 @@
 	}
 	</script>
 
->Notice the check for “if (document.a.c.value ==a) {….}
+> Notice the check for “if (document.a.c.value ==a) {….}
 
->Two lines above this var a is set to “null”
+> Two lines above this var a is set to “null”
 
->2. Enter “null” as the password
+>#2. Enter “null” as the password.
