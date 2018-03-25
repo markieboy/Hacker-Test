@@ -40,3 +40,5 @@
 ### Enter “zadmin” as the username. The password is not needed.
 
 ### Next level: http://www.hackertest.net/phat.php
+
+### Next solution: [Level 9](/Level%209/)
