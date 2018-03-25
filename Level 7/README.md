@@ -20,3 +20,5 @@
 ### Enter “phat” as the username. The password is not needed.
 
 ### Next level: http://www.hackertest.net/pwd2.php
+
+### Next solution: [Level 8](/Level%208/)
