@@ -1,34 +1,23 @@
-# Level 1
+# Level 12
 
-image
+![Alt text](level12.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	...
+	<tr>
+	<td width="27%">
+	<img border="0" src="images/logo.jpg" width="300" height="145"></td>
+	<td width="73%" valign="top">
+	...
+	
+> Near the top of the sourcecode is the `src="images/logo.jpg"` link.
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> Download this .jpg file and open in a image editor such as GIMP.
 
-> Two lines above this `var a` is set to “null”
+> Zoom into the image, and across Russia in very dark letters is written `puta.php`
 
-### Enter “null” as the password.
+### Next level: http://www.hackertest.net/puta.php
