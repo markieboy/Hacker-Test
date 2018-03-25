@@ -35,3 +35,5 @@
 > Near the bottom of the source code shows `<font color="#FFFFFF">Level 11: rofl.php</font>`.
 
 ### Next level: http://www.hackertest.net/rofl.php
+
+### Next solution: [Level 11](/Level%2011/)
