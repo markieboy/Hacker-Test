@@ -29,3 +29,5 @@
 > Open a base64 decoder such as www.base64decode.org/ and decode the password as `gazebruh`.
 
 ### Next level: http://www.hackertest.net/gazebruh.php
+
+### Next solution: [Level 10](/Level%2010/)
