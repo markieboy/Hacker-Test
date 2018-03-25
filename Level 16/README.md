@@ -1,34 +1,25 @@
-# Level 1
+# Level 16
 
-image
+![Alt text](level16.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	UNAVAILABLE
+	<!-- level 17: /images" -->
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> The page source is limited, but contains a clue.
 
-> Two lines above this `var a` is set to “null”
+### Open the URL: http://www.hackertest.net/unavailable/images
 
-### Enter “null” as the password.
+> This opens a blank page, but view the source code
+
+	<body background="bg.jpg">
+
+> Download this file and open in a text editor.
+
+> Near the start of the contents you see `Ducky.php`.
+
+### Next level: http://www.hackertest.net/unavailable/Ducky.php
