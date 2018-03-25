@@ -1,34 +1,25 @@
-# Level 1
+# Level 17
 
-image
+![Alt text](level17.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	<font color="#FFFFFF">Password: your IP address</font><br>
+	
+> Get your IP address from www.whatismyip.com
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> Enter your IP address as the password and click `login`.
 
-> Two lines above this `var a` is set to “null”
+> This gives a warning:
 
-### Enter “null” as the password.
+	Warning: Cannot modify header information - headers already sent by 
+	(output started at /home3/jskenned/public_html/hackertest/unavailable/Ducky.php:12) 
+	in /home3/jskenned/public_html/hackertest/unavailable/Ducky.php on line 58
+	../level18.shtml 
+
+> The clue is in the warning.
+
+### Next level: http://www.hackertest.net/level18.shtml
