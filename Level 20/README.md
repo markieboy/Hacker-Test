@@ -23,16 +23,43 @@ VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZY
 > Decode this as 4 times as Base64, reveals:
 
 	Go to www.streetkorner.net/gb now.
+	
+# When you visit this site it directs you to install a "safe browser extension". This looks dodgy, so I shut the site down.
+
+# But you MUST visit www.streetkorner.net to get a cookie, otherwise you cannot complete the challenge.
 
 > In the source code below this Base64 number is
 
 	<font color="#FFFFFF">&nbsp;^^^^^^^^^^ Change domain, add "22332" at the end, reach it and then get hold of ... ^^^^^^^^^^
 	</font>
 	
-> This suggests the next URL is www.streetkorner.net/gb22332
+> This suggests the next URL is www.hackertest.net/gb22332
 
-> However, this link directs you to install a "safe browser extension".
+> This generates a fake error message. View source code:
 
-> This looks a tad dodgy, so I guess the journey ends here.
+	<H1>Not Found</H1>
+	The requested URL /gb22332/login.php was not found on this server.<P>
+	<P>Additionally, a 505 Not Found error was encountered while trying to use an ErrorDocument to handle the request.
 
-> One day I might open this URL in a Virtual Machine to see where it leads.
+> Visit www.hackertest.net/505, gives another error message. View source code:
+
+	<H1>Not Found</H1>
+	The requested URL /505 was not found on this server.<P>
+	<P>Additionally, a 403 Not Found
+	error was encountered while trying to use an ErrorDocument to handle the request.
+	</BODY></HTML>
+
+> Visit www.hackertest.net/505/403/, gives: 
+
+	What is the answer to life, the universe, and everything?
+
+> Visit www.hackertest.net/42.php. Look at the source code:
+
+	<A HREF="http://www.hackertest.net/">Enter</A>
+	<!-- Make sure you pass referrels -->
+
+> By referrels, I think it means it wants the cookies from www.streetkorner.net, so visit this page if not alredy done so.
+
+> Click on `Enter` to proceed to the end...
+
+![Alt text](congrats.PNG?raw=true)
