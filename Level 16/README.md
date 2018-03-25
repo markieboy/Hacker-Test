@@ -23,3 +23,5 @@
 > Near the start of the contents you see `Ducky.php`.
 
 ### Next level: http://www.hackertest.net/unavailable/Ducky.php
+
+### Next solution: [Level 17](/Level%2017/)
