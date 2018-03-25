@@ -16,3 +16,5 @@
 > Open up the image in GIMP, displays `gazebruh2`.
 
 ### Next level: http://www.hackertest.net/gazebruh2.htm
+
+### Next solution: [Level 20](/Level%2020/)
