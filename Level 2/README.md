@@ -25,3 +25,5 @@
 > Note: This is lower-case L, 3, lower-case L. Not the number 1.
 
 ### Next level: www.hackertest.net/l3l.htm
+
+### Next solution: [Level 3](/Level%203/)
