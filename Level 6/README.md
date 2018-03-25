@@ -34,3 +34,5 @@ There is an alternative solution for this level
 > In the Javascri statement the next level url is shown as `window.location="included.htm";`.
 
 ### Next level: www.hackertest.net/included.htm
+
+### Next solution: [Level 7](/Level%207/)
