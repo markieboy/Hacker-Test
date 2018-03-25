@@ -1,34 +1,32 @@
-# Level 1
+# Level 15
 
-image
+![Alt text](level15.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	...
+	Since you still have your photoshop open, check this out: <a href="images/pass2level16.jpg">images/pass2level16.jpg</a>
+	...
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> The page suggests you download `<img src="images/pass2level16.jpg`.
 
-> Two lines above this `var a` is set to “null”
+> But, when you open this image its says it cannot be opened.
 
-### Enter “null” as the password.
+> Open the file in a hex editor tells you the file is a .JFIF which is JPEG File Interchange Format.
+
+>
+
+
+
+
+This is because it is a `.gif` file. Rename the file as pass2level16.gif and open it.
+
+> Download this .gif and open with an image editor such as GIMP.
+
+> The .gif image says `TOTALLY!!! PHP`.
+
+### Next level: http://www.hackertest.net/totally.php
+
