@@ -13,8 +13,8 @@
 	<meta name="robots" content="noindex">
 	<meta name="robots" content="goto: clipart.php">
 
-> In the meta name heaad is the `<meta name="robots" content="goto: clipart.php">`.
+> In the meta name statement is `<meta name="robots" content="goto: clipart.php">`.
 
-> Add this to the hackertest URL for the next level.
+> Add this goto .php link to the hackertest URL for the next level.
 
 ### Next level: http://www.hackertest.net/clipart.php
