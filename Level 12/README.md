@@ -18,6 +18,6 @@
 
 > Download this .jpg file and open in a image editor such as GIMP.
 
-> Zoom into the image, and across Russia in very dark letters is written `puta.php`
+> Zoom into the image, and across Russia in very dark letters is written `puta.php`.
 
 ### Next level: http://www.hackertest.net/puta.php
