@@ -18,3 +18,5 @@
 > Add this goto .php link to the hackertest URL for the next level.
 
 ### Next level: http://www.hackertest.net/clipart.php
+
+### Next solution: [Level 12](/Level%2012/)
