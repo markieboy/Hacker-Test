@@ -20,7 +20,8 @@
 ## The second is a Base64 number:
 VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZYUmtZeVYycEtTbG95U25SUFZFNU5Xbm93T1QwOT09
 
-> Decode this as base 64, 4 times to reveal:
+> Decode this as 4 times as Base64, reveals:
+
 	Go to www.streetkorner.net/gb now.
 
 > In the source code below this Base64 number is
