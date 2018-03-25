@@ -14,7 +14,7 @@
 	<img src="images/lvl13.gif"></font></b><p>&nbsp;</p>
 	...
 	
-> First off, right at the start of the source code is a clue `<meta name="clue" content="use graphic software"`.
+> Right near the start of the source code is a clue `<meta name="clue" content="use graphic software"`.
 
 > Lower down in the source code is hidden a .gif image `<img src="images/lvl13.gif">`.
 
