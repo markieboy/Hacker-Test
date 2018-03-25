@@ -33,3 +33,5 @@ There is an alternative solution for this level
 > The URL for the next level is also in the page source.
 
 ### Next level: www.hackertest.net/save_as.htm
+
+### Next solution: [Level 6](/Level%206/)
