@@ -23,3 +23,5 @@
 > The next level URL is in the warning message.
 
 ### Next level: http://www.hackertest.net/level18.shtml
+
+### Next solution: [Level 18](/Level%2018/)
