@@ -25,3 +25,5 @@
 > Zoom into the image, and across Russia in very dark letters is written `puta.php`.
 
 ### Next level: http://www.hackertest.net/puta.php
+
+### Next solution: [Level 13](/Level%2013/)
