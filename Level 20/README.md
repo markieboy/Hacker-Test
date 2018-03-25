@@ -5,7 +5,7 @@
 #
 ### SOLUTION
 
-> There are 2 long digits on the screen.
+> There are 2 long strings of digits on the screen.
 
 ## The first is a hex number:
 436f6e67726174756c6174696f6e732532312b596f752b686176652b7061737365642b746f2b6c6576656c2b31302e2b486572652532432b7468696e67732b6265636f6d652b6d7563682b6d6f72652b6469666663756c742b2533422d2532395b486f70652b796f752b6765742b7468726f7567682532312b456e6a6f792e
@@ -23,7 +23,8 @@ VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZY
 > Decode this as base 64, 4 times to reveal:
 	Go to www.streetkorner.net/gb now.
 
-> In the source code below this Base64 number is 
+> In the source code below this Base64 number is
+
 	<font color="#FFFFFF">&nbsp;^^^^^^^^^^ Change domain, add "22332" at the end, reach it and then get hold of ... ^^^^^^^^^^
 	</font>
 	
