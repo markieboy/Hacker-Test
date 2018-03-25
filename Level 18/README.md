@@ -1,34 +1,16 @@
-# Level 1
+# Level 18
 
-image
+![Alt text](level18.PNG?raw=true)
 
 #
 ### SOLUTION
  
-### Right click on the web page to "View Page Source"
+### The page suggests you think like a noob.
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+> So why not try `password` as the password?
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> This brings up a new message saying:
 
-> Two lines above this `var a` is set to “null”
+	/level19.shtml << told ya to think like a n00b!!! 
 
-### Enter “null” as the password.
+### Next level: http://www.hackertest.net/level19.shtml
