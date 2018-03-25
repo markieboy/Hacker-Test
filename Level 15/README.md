@@ -20,3 +20,5 @@
 > This tells you `Level 16: unavailable`
 
 ### Next level: http://www.hackertest.net/unavailable
+
+### Next solution: [Level 16](/Level%2016/)
