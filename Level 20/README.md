@@ -24,9 +24,7 @@ VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZY
 
 	Go to www.streetkorner.net/gb now.
 	
-When you visit this site it directs you to install a "safe browser extension". This looks dodgy, so I shut the site down.
-
-But you MUST visit www.streetkorner.net to get a cookie, otherwise you cannot complete the challenge.
+NOTE: This link directed me to install a "safe browser extension". This looks dodgy, so I shut the site down. But you MUST visit www.streetkorner.net to get a cookie in order to complete the challenge.
 
 > In the source code below this Base64 number is
 
