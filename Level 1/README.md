@@ -35,4 +35,4 @@
 
 ### Next level: www.hackertest.net/null.htm
 
-### Next solution: * [Level 2](/Level%202/)
+### Next solution: [Level 2](/Level%202/)
