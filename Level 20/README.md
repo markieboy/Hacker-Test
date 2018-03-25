@@ -24,9 +24,9 @@ VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZY
 
 	Go to www.streetkorner.net/gb now.
 	
-# When you visit this site it directs you to install a "safe browser extension". This looks dodgy, so I shut the site down.
+When you visit this site it directs you to install a "safe browser extension". This looks dodgy, so I shut the site down.
 
-# But you MUST visit www.streetkorner.net to get a cookie, otherwise you cannot complete the challenge.
+But you MUST visit www.streetkorner.net to get a cookie, otherwise you cannot complete the challenge.
 
 > In the source code below this Base64 number is
 
@@ -58,7 +58,7 @@ VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZY
 	<A HREF="http://www.hackertest.net/">Enter</A>
 	<!-- Make sure you pass referrels -->
 
-> By referrels, I think it means it wants the cookies from www.streetkorner.net, so visit this page if not alredy done so.
+> [By referrels, I think it means it wants the cookies from www.streetkorner.net, so visit this page if not alredy done so.]
 
 > Click on `Enter` to proceed to the end...
 
