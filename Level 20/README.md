@@ -31,6 +31,8 @@ VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZY
 	
 > This suggests the next URL is www.streetkorner.net/gb22332
 
-> However, opening this link directs you to a page that wants to install a safe browser extension. This looks a tad dodgy, so I guess the journey ends here.
+> However, this link directs you to install a "safe browser extension".
+
+> This looks a tad dodgy, so I guess the journey ends here.
 
 > One day I might open this URL in a Virtual Machine to see where it leads.
