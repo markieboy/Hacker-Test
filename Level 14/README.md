@@ -1,34 +1,22 @@
-# Level 1
+# Level 14
 
-image
+![Alt text](level14.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	...
+	<center><NOINDEX>
+	<img src="images/bidvertiser.gif">
+	</NOINDEX></center>
+	...
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> Towards the end of the source code is an image for the advert of the web page `<img src="images/bidvertiser.gif">`.
 
-> Two lines above this `var a` is set to “null”
+> Download this .gif and open with an image editor such as GIMP.
 
-### Enter “null” as the password.
+> The .gif image says `TOTALLY!!! PHP`.
+
+### Next level: http://www.hackertest.net/totally.php
