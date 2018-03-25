@@ -1,34 +1,20 @@
-# Level 1
+# Level 11
 
-image
+![Alt text](level11.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	<html>
+	<head>
+	<meta http-equiv="Content-Language" content="en-us">
+	<meta name="robots" content="noindex">
+	<meta name="robots" content="goto: clipart.php">
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> In the meta name heaad is the `<meta name="robots" content="goto: clipart.php">`.
 
-> Two lines above this `var a` is set to “null”
+> Add this to the hackertest URL for the next level.
 
-### Enter “null” as the password.
+### Next level: http://www.hackertest.net/clipart.php
