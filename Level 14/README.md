@@ -24,3 +24,5 @@
 > The .gif image says `TOTALLY!!! PHP`.
 
 ### Next level: http://www.hackertest.net/totally.php
+
+### Next solution: [Level 15](/Level%2015/)
