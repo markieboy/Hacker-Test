@@ -8,11 +8,15 @@
 ### Right click on the web page to "View Page Source"
 
 	...
+	<meta name="clue" content="use graphic software">
+	...
 	<td width="100%" height="267" valign="top"><b><font size="7" face="Arial">
 	<img src="images/lvl13.gif"></font></b><p>&nbsp;</p>
 	...
 	
-> In the source code is hidden a .gif image `<img src="images/lvl13.gif">`.
+> First off, right at the start of the source code is a clue `<meta name="clue" content="use graphic software"`.
+
+> Lower down in the source code is hidden a .gif image `<img src="images/lvl13.gif">`.
 
 > Download this .gif file and open in a image editor such as GIMP.
 
