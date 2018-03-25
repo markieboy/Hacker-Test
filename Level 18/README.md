@@ -14,3 +14,5 @@
 	/level19.shtml << told ya to think like a n00b!!! 
 
 ### Next level: http://www.hackertest.net/level19.shtml
+
+### Next solution: [Level 19](/Level%2019/)
