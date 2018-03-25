@@ -20,6 +20,6 @@
 	in /home3/jskenned/public_html/hackertest/unavailable/Ducky.php on line 58
 	../level18.shtml 
 
-> The clue is in the warning.
+> The next level URL is in the warning message.
 
 ### Next level: http://www.hackertest.net/level18.shtml
