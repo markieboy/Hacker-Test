@@ -4,7 +4,17 @@
 
 #
 ### SOLUTION
- 
+
+
+
+
+	VldwSk5Gb3lVa2hQUjJSclRUSlJlbFJITlU5TlIwNTBWbTE0YTFJelVqSlpNakF4WWtkT2NFNVlWbUZYUmtZeVYycEtTbG95U25SUFZFNU5Xbm93T1QwOT09
+
+Decode this as base 64, 4 times to reveal:
+	Go to www.streetkorner.net/gb now.
+
+
+
 ### Right click on the web page to "View Page Source"
 
 	<td width="100%" background="images/level20_pass.gif">
