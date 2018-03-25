@@ -1,34 +1,18 @@
-# Level 1
+# Level 20
 
-image
+![Alt text](level20.PNG?raw=true)
 
 #
 ### SOLUTION
  
 ### Right click on the web page to "View Page Source"
 
-	</script>
-	</head>
-	<body onLoad=password()>
-	<script language=JavaScript>
-	{
-	var a="null";
-	function check()
-	{
-	if (document.a.c.value == a)
-	{
-	document.location.href="http://www.hackertest.net/"+document.a.c.value+".htm";
-	}
-	else
-	{
-	alert ("Try again");
-	}
-	}
-	}
-	</script>
+	<td width="100%" background="images/level20_pass.gif">
+ 	<p align="center">A little different, but still the same :)  
+	</td>
+	
+> Save the file as `level20_pass.gif`.
 
-> The if statement `if (document.a.c.value ==a)` checks to compare if the user-entered password is equal to `var a`
+> Open up the image in GIMP, displays `gazebruh2`.
 
-> Two lines above this `var a` is set to “null”
-
-### Enter “null” as the password.
+### Next level: http://www.hackertest.net/gazebruh2.htm
