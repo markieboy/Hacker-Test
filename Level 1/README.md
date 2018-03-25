@@ -34,3 +34,5 @@
 ### Enter “null” as the password.
 
 ### Next level: www.hackertest.net/null.htm
+
+### Next solution: * [Level 2](/Level%202/)
