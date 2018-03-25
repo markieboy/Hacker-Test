@@ -14,3 +14,5 @@
 > However, you may need to turn off JavaScript in your broswer to be able to click on this link.
 
 ### Next level: www.hackertest.net/sdrawkcab.htm
+
+### Next solution: [Level 5](/Level%205/)
