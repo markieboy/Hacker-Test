@@ -35,3 +35,5 @@
 > In this XML code you see a data string `4xml.php`.
 
 ### Next level: http://www.hackertest.net/4xml.php
+
+### Next solution: [Level 14](/Level%2014/)
